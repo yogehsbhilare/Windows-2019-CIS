@@ -42,7 +42,7 @@ min_ansible_version: "2.10.1"
 # win19cis_rule_18_9_102_2_2
 # win19cis_rule_18_9_102_2_3
 # win19cis_rule_18_9_103_1
-win_skip_for_test: false
+win_skip_for_test: true
 
 # These variables correspond with the CIS rule IDs or paragraph numbers defined in
 # the CIS benchmark documents.
